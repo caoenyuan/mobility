@@ -1,0 +1,6 @@
+trl
+peft
+bitsandbytes
+sentencepiece
+scipy
+transformers==4.38
