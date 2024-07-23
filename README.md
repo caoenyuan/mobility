@@ -1,7 +1,7 @@
 ```
-git clone https://github.com/caoenyuan/llama_3.git
+git clone https://github.com/caoenyuan/llama.git
 
-cd llama_3
+cd llama
 
 pip install -r requirements.txt
 
