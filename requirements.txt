@@ -3,4 +3,4 @@ peft
 bitsandbytes
 sentencepiece
 scipy
-transformers==4.38
+transformers
