@@ -1,7 +1,7 @@
 ```
 git clone https://github.com/caoenyuan/mobility.git
 
-cd llama
+cd mobility
 
 pip install -r requirements.txt
 
